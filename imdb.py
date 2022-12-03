@@ -27,7 +27,6 @@ excel.save('IMDB Top 250 movies.xlsx')
 
 
 """
-Intersting links:
 openpyxl - adjust column width size -- https://stackoverflow.com/questions/13197574/openpyxl-adjust-column-width-size
 
 
